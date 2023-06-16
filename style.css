@@ -1,0 +1,93 @@
+body{
+    background-image: url("https://e0.pxfuel.com/wallpapers/387/396/desktop-wallpaper-cool-rainbow-music-background-background-music-computer.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+a{
+    font-size: 30px;
+}
+body
+{
+   
+    animation:change 7s ease infinite;
+}
+@keyframes change
+{
+    0%
+    {
+        background-image: url("https://t3.ftcdn.net/jpg/02/68/84/60/360_F_268846056_aXVFwF45xIfsLRCU6S1Nh3Vht0KWgEY7.jpg");
+        background-repeat: no-repeat;
+        background-size: cover;
+    }
+    /* 25%
+    {
+        background-image: url("");
+        background-repeat: no-repeat;
+        background-size: cover;
+    } */
+    50%
+    {
+        background-image: url("https://w0.peakpx.com/wallpaper/411/929/HD-wallpaper-colorful-music-note-headphone-background-music.jpg");
+        background-repeat: no-repeat;
+        background-size: cover;
+    }
+    /* 75%
+    {
+        background-image: url("");
+        background-repeat: no-repeat;
+        background-size: cover;
+    } */
+    100%
+    {
+        background-image: url("https://e0.pxfuel.com/wallpapers/153/11/desktop-wallpaper-cool-background-music-seni-3d-seni-hiburan-musical.jpg");
+        background-repeat: no-repeat;
+        background-size: cover;
+    }
+}
+a:link
+{
+    text-decoration: none;
+    
+    
+}
+.main
+{
+    padding: 2%;
+    justify-content: flex-end;
+}
+a{
+   
+    
+    padding: 40px;
+    color: white;
+}
+
+h1{
+   
+    color:white;
+    font-size: 60px;
+    /* animation:movement 2s infinite; */
+}
+@keyframes movement
+{
+0%
+{
+    text-shadow: 0 0 5px purple;
+}
+25%
+{
+    text-shadow: 0 0 5px blue;; 
+}
+50%
+{
+    text-shadow: 0 0 5px red;
+}
+75%
+{
+    text-shadow: 0 0 5px  green;
+}
+100%
+{
+    text-shadow: 0 0 5px yellowgreen;
+}
+}

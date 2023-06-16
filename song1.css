@@ -1,0 +1,45 @@
+body{
+    background-image: url("https://cdn.pixabay.com/photo/2021/09/01/10/43/music-6591030_1280.jpg");
+background-size: cover;
+background-repeat: no-repeat;
+}
+p{
+    font-size: 50px;
+}
+.song{
+    padding: 7%;
+    margin-top: 1%;
+    margin-left: 35%;
+
+}
+a{
+   padding:7%;
+   font-size: 30px; 
+}
+.img1 img{
+    padding-right:63%;
+    width:300px;
+    }
+    .img2 img{
+        padding-right:63%;
+        width:300px;
+        }
+        .img3 img{
+            padding-right:63%;
+            height:300px;
+            width:300px;
+            }
+            .img4 img{
+                padding-right:63%;
+                height:300px;
+                width:300px;
+                }
+                .img5 img{
+                    padding-right:63%;
+                    height:300px;
+                    }
+                    .img6 img{
+                        padding-right:63%;
+                        height:200px;
+                        }
+    

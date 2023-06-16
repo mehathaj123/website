@@ -1,0 +1,43 @@
+body{
+    background-image: url("https://images.unsplash.com/photo-1470225620780-dba8ba36b745?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxleHBsb3JlLWZlZWR8MXx8fGVufDB8fHx8fA%3D%3D&w=1000&q=80");
+}
+p{
+    font-size: 50px;
+}
+.song{
+    padding: 7%;
+    margin-top: 1%;
+    margin-left: 35%;
+
+}
+a{
+   padding:7%;
+   font-size: 30px; 
+}
+.img1 img{
+    padding-right:63%;
+    width:300px;
+    }
+    .img2 img{
+        padding-right:63%;
+        width:300px;
+        }
+        .img3 img{
+            padding-right:63%;
+            height:300px;
+            width:300px;
+            }
+            .img4 img{
+                padding-right:63%;
+                height:300px;
+                width:300px;
+                }
+                .img5 img{
+                    padding-right:63%;
+                    height:300px;
+                    }
+                    .img6 img{
+                        padding-right:63%;
+                        height:200px;
+                        }
+    

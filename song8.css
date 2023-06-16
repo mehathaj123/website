@@ -1,0 +1,45 @@
+body{
+    background-image:url("https://cdn.dribbble.com/users/1549466/screenshots/13911656/music_background_gradient_purple_cm_1x.jpg");
+    /* background-repeat: no-repeat;
+    background-size: cover; */
+}
+p{
+    font-size: 50px;
+}
+.song{
+    padding: 7%;
+    margin-top: 1%;
+    margin-left: 35%;
+
+}
+a{
+   padding:7%;
+   font-size: 30px; 
+}
+.img1 img{
+    padding-right:63%;
+    width:300px;
+    }
+    .img2 img{
+        padding-right:63%;
+        width:300px;
+        }
+        .img3 img{
+            padding-right:63%;
+            height:300px;
+            width:300px;
+            }
+            .img4 img{
+                padding-right:63%;
+                height:300px;
+                width:300px;
+                }
+                .img5 img{
+                    padding-right:63%;
+                    height:300px;
+                    }
+                    .img6 img{
+                        padding-right:63%;
+                        height:200px;
+                        }
+    

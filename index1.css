@@ -1,0 +1,82 @@
+body{
+    background-image:url("//miro.medium.com/v2/resize:fit:1100/format:webp/1*SPYhnNnAFNDdZ-Z5cQWmdw.jpeg");
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+.head{
+    display:flex;
+    height:100px;
+    width:100%;
+    /* justify-content: space-evenly; */
+    margin-top: 2%;
+    font-size: 10px;
+    text-decoration: none;
+}
+.navbar{
+    width:50%;
+    /* margin:auto; */
+    padding:15px ;
+    display: flex;
+    font-size: 20px;
+    /* position:relative; */
+    /* align-items: center; */
+     /* justify-content: space-evenly; */
+     margin-left:50%;  
+}
+.navbar ul li{
+      display: inline-block;
+      list-style: none;
+      margin:0 20px;
+}
+.navbar ul li a{
+    text-decoration: none;
+}
+.body{
+    position: absolute;
+    width:100%;
+     top:30%; 
+    display:flex;
+    justify-content: space-between; 
+    
+}
+#left{
+    font-size: 25px;
+    /* margin-top:20%; */
+    margin-left: 2%;
+    width:100%;
+     /* float:left; */ 
+    /* text-align:left; */
+}
+#left h2{
+     margin-right: 20%;  
+/* float:left; */
+    text-align:left;
+}
+/* #right {
+    font-size: 20px;
+    /* float;right; 
+    margin-left:65%;
+    margin-top: 110px;
+     justify-content: space-evenly; 
+    display: flex;
+    align-items: center;
+}
+#right p{
+    text-align:right;
+    margin-right: 15px;
+}
+#right img{
+    width:25px;
+    height:25px;
+} */
+audio{
+    margin-top: 30%;
+}
+a{
+    /* float: left; */
+    padding-right: 1%;
+    text-decoration: none;
+    margin-top: 0%;
+    font-size: 20px;
+}
